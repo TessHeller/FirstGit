@@ -7,18 +7,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController
+{
 
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
     
-    // tesss and sabrina are smart
-    
-    // they are also cool
-    //Sabrina sucks!
-
-// hi tess
 }
 
